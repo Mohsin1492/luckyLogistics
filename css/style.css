@@ -486,3 +486,22 @@
 /* .footerBox{
     display: flex;
 } */
+.servicebox{
+    border-radius: 20px;
+    height: 490px;
+}
+.servicebox img{
+    border-radius: 20px;
+}
+.servicebox:hover img{
+    border-radius: 20px;
+}
+.servicebox:hover h4{
+    color: #fff;
+    transition: all 0.4s;
+}
+.servicebox:hover{
+    background: #ff3e41;
+    color: #fff;
+    transition: all 0.4s;
+}
