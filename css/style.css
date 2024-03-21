@@ -505,3 +505,13 @@
     color: #fff;
     transition: all 0.4s;
 }
+.ownerbox p{
+    font-size: 20px;
+    margin-bottom: 0px !important;
+}
+.ownerbox h5{
+    font-size: 30px;
+}
+.ownerbox{
+    text-align: center;
+}
